@@ -28,7 +28,7 @@ I'm a **Software Engineer** and **Tech Enthusiast** with a journey through tech 
 - 🏀 Staying active as a basketball player
 
 ## 💡 Philosophy
-"I'm all about bridging worlds, building cool stuff, and using tech for positive impact!"
+"I love bridging worlds, building cool stuff, and using tech for positive impact!"
 
 ## Some Statistics and Badges
 ![My Stats](https://github-readme-stats.vercel.app/api?username=Weijtmans)
