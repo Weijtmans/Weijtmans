@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Elgar Weijtmans!
 
-I'm a **Software Engineer**, **Tech Enthusiast** with a journey through tech and law. Currently, I'm wearing multiple hats, building practical AI solutions, mentoring startups, and bridging the gap between technology and law. 🚀
+I'm a **Software Engineer** and **Tech Enthusiast** with a journey through tech and law. Currently, I'm wearing multiple hats, building practical AI solutions, mentoring startups, and bridging the gap between technology and law. 🚀
 
 ## 🛠️ My Tech Stack
 - **Languages:** TypeScript, Python, Go
@@ -30,8 +30,9 @@ I'm a **Software Engineer**, **Tech Enthusiast** with a journey through tech and
 ## 💡 Philosophy
 "I'm all about bridging worlds, building cool stuff, and using tech for positive impact!"
 
-## 📈 GitHub Stats
-![Elgar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Weijtmans&show_icons=true&theme=radical)
+## Some Statistics and Badges
+![My Stats](https://github-readme-stats.vercel.app/api?username=Weijtmans)
+[![@weijtmans's Holopin board](https://holopin.io/api/user/board?user=weijtmans)](https://holopin.io/@weijtmans)
 
 ## 🌐 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elgar_Weijtmans-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/weijtmans)
