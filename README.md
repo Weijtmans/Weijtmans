@@ -1,12 +1,19 @@
 # 👋 Hi, I'm Elgar Weijtmans!
-
 I'm a **Software Engineer** and **Tech Enthusiast** with a journey through tech and law. Currently, I'm wearing multiple hats, building practical AI solutions, mentoring startups, and bridging the gap between technology and law. 🚀
 
 ## 🛠️ My Tech Stack
 - **Languages:** TypeScript, Python, Go
-- **Frameworks:** [T3 Stack](https://create.t3.gg/)
-- **Tools:** Git, Docker, Hetzner, Cloudflare
+- **Frameworks:** [T3 Stack](https://create.t3.gg/), Next.js
+- **Tools:** Git, Docker, Hetzner, Cloudflare, Vercel
+- **Systems:** Linux
 - **Interests:** AI, Data Science, Cybersecurity, Legal Tech
+
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3178C6)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
+![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=00ADD8)
+![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
+![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&color=000000)
+![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
 ## 🎯 What I'm Up To
 - 🤖 Building practical AI solutions at Newdai
@@ -39,5 +46,6 @@ I'm a **Software Engineer** and **Tech Enthusiast** with a journey through tech 
 [![GitHub](https://img.shields.io/badge/GitHub-Weijtmans-181717?style=flat-square&logo=github)](https://github.com/Weijtmans)
 
 ---
-
 🌟 Always open to interesting collaborations and discussions at the intersection of tech, law, and social impact!
+
+![Profile Views](https://komarev.com/ghpvc/?username=Weijtmans)
