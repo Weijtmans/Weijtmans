@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Elgar Weijtmans!
 
-<!--
-**Weijtmans/Weijtmans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer**, **Tech Enthusiast** with a journey through tech and law. Currently, I'm wearing multiple hats, building practical AI solutions, mentoring startups, and bridging the gap between technology and law. 🚀
 
-Here are some ideas to get you started:
+## 🛠️ My Tech Stack
+- **Languages:** TypeScript, Python, Go
+- **Frameworks:** [T3 Stack](https://create.t3.gg/)
+- **Tools:** Git, Docker, Hetzner, Cloudflare
+- **Interests:** AI, Data Science, Cybersecurity, Legal Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 What I'm Up To
+- 🤖 Building practical AI solutions at Newdai
+- ⚖️ Working as a Legal Engineer at HVG Law / EY Law
+- 📊 Empowering doctors with data science
+- 🌱 Mentoring startups focused on social and environmental impact
+- 🕹️ Building a homebrew pinball machine with my dad (because why not?)
+
+## 🚀 My Journey
+1. Started career as a software engineer
+2. Founded a digital agency
+3. Detoured into (big) law for the learning experience
+4. Returned to my true passion: building stuff with tech
+
+## 🌟 My Interests
+- 💻 Bridging the gap between technology and law
+- 🎨 Experimenting at the intersection of tech and art (ask me about holographic installations!)
+- 🌱 Sustainability is a big concern to me
+- 🏀 Staying active as a basketball player
+
+## 💡 Philosophy
+"I'm all about bridging worlds, building cool stuff, and using tech for positive impact!"
+
+## 📈 GitHub Stats
+![Elgar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Weijtmans&show_icons=true&theme=radical)
+
+## 🌐 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elgar_Weijtmans-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/weijtmans)
+[![GitHub](https://img.shields.io/badge/GitHub-Weijtmans-181717?style=flat-square&logo=github)](https://github.com/Weijtmans)
+
+---
+
+🌟 Always open to interesting collaborations and discussions at the intersection of tech, law, and social impact!
