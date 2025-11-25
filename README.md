@@ -16,7 +16,6 @@ I'm a **Software Engineer** and **Tech Enthusiast** with a journey through tech 
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
 ## 🎯 What I'm Up To
-- 🤖 Building practical AI solutions at Newdai
 - ⚖️ Working as a Legal Engineer at HVG Law / EY Law
 - 📊 Empowering doctors with data science
 - 🌱 Mentoring startups focused on social and environmental impact
