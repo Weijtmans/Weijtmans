@@ -4,7 +4,7 @@ I'm a **Software Engineer** and **Tech Enthusiast** with a journey through tech 
 ## 🛠️ My Tech Stack
 - **Languages:** TypeScript, Python, Go
 - **Frameworks:** [T3 Stack](https://create.t3.gg/), Next.js
-- **Tools:** Git, Docker, Hetzner, Cloudflare, Vercel
+- **Tools:** Git, Docker, Hetzner, Cloudflare, Vercel, Claude
 - **Systems:** Linux
 - **Interests:** AI, Data Science, Cybersecurity, Legal Tech
 
@@ -16,8 +16,7 @@ I'm a **Software Engineer** and **Tech Enthusiast** with a journey through tech 
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
 ## 🎯 What I'm Up To
-- ⚖️ Working as a Legal Engineer at HVG Law / EY Law
-- 📊 Empowering doctors with data science
+- ⚖️ Working as a Legal Engineer at NautaDutilh
 - 🌱 Mentoring startups focused on social and environmental impact
 - 🕹️ Building a homebrew pinball machine with my dad (because why not?)
 
